@@ -7,4 +7,8 @@ h1 {
 p {
     font-family: 'Roboto Slab', serif;
     color: #25274d;
+    display: inline;
 }
+a {
+    display: inline; /* the default for span */
+  }
