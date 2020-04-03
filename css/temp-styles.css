@@ -7,15 +7,10 @@ body, html {
   overflow: hidden; /* Hide scrollbars */
 
 }
-
 .bg { 
-  /* The image used */
   background-image: url("../img/bg-img.jpg");
-
-  /* Full height */
   height: 100%; 
 
-  /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -36,9 +31,7 @@ body, html {
   padding-top: 15%;
   vertical-align: middle;
   font-weight: lighter;
-
 }
-
 .bottom {
   text-align: center;
   font-size: 30px;
@@ -46,7 +39,6 @@ body, html {
   vertical-align: middle;
   font-weight: lighter;
 }
-
 .copyright {
   text-align: center;
   font-size: 22px;
