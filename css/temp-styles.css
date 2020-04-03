@@ -4,6 +4,8 @@ body, html {
   margin-left: 0;
   margin-right: 0;
   margin-bottom: 0;
+  overflow: hidden; /* Hide scrollbars */
+
 }
 
 .bg { 
@@ -48,7 +50,7 @@ body, html {
 .copyright {
   text-align: center;
   font-size: 22px;
-  padding-top: 22%;
+  padding-top: 20%;
   vertical-align: middle;
   font-weight: lighter;
 }
