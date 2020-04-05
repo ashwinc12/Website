@@ -56,4 +56,22 @@ body, html {
   vertical-align: middle;
   font-weight: lighter;
 }
+.main-text {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  background-color: #41172d;
+}
 
+.about-title {
+  font-size: 60px;
+}
+.about-text {
+  font-weight: lighter;
+  font-size: 17px;
+  line-height: 30px;
+
+}
+.shadow {
+  padding-top: 30px;
+ 
+}
