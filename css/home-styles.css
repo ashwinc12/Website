@@ -80,18 +80,13 @@ body, html {
  
 }
 .RPI-background{
-  background-image: url("../img/RPI_logo.png");
-  height: fit-content;
-  opacity: 100%;
 }
-.RPI-background:hover {
-  opacity: 80%;
-}
+
 .RPI-title {
   font-size: 40px;
   color: black;
   
 }
 .RPI-body {
-
+  color: black;
 }
