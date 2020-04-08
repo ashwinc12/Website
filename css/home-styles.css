@@ -90,3 +90,8 @@ body, html {
 .RPI-body {
   color: black;
 }
+.skills{
+  font-size: 22px;
+  list-style: circle;
+  
+}
