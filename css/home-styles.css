@@ -95,3 +95,14 @@ body, html {
   list-style: circle;
   
 }
+.progress {
+  height: 30px;
+  text-align: left;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.progress-value {
+  position:absolute;
+  right:0;
+  left:0;
+}
