@@ -64,7 +64,6 @@ body, html {
 
 .about-title {
   font-size: 60px;
-  text-decoration: underline;
   text-decoration-style: solid;
   text-decoration-thickness: .125em;
   text-underline-offset: 1.5px;
