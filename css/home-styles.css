@@ -74,6 +74,16 @@ body, html {
   line-height: 30px;
 
 }
+.experience-header {
+  font-weight: bold;
+  font-size: 25px;
+}
+.date-header {
+  font-weight: lighter;
+  font-size: 19px;
+  font-style: italic;
+
+}
 .shadow {
   padding-top: 30px;
  
