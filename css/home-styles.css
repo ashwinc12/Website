@@ -18,7 +18,7 @@ body, html {
   scroll-behavior: smooth;
 }
 .bg { 
-  background-image: url("../img/bg-img.jpg");
+  background-image: url("../img/bg-img.jpg"); /* https://unsplash.com/photos/JgOeRuGD_Y4 */
   height: 100%; 
 
   background-position: center;
@@ -28,6 +28,7 @@ body, html {
   font-family: 'Open Sans', sans-serif;
   color: white;
 }
+
 .top {
   text-align: center;
   font-size: 60px;
